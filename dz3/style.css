@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+.header{
+    display: flex;
+    padding-top: 40px;
+    padding-left: 375px;
+    padding-right: 375px;
+
+}
+
+.header__links{
+    padding-top: 11px;
+    padding-left: 500px;
+}
+
+.top__info{
+    padding-top: 164px;
+    padding-left: 373px;
+    gap: 39px;
+    display: flex;
+}
+
+.h1{
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 60px;
+line-height: 70px;
+padding-bottom: 17px;
+}
+
+.top__buttons{
+    padding-left: 2px;
+    padding-top: 37px;
+    display: flex;
+    gap: 72px;
+}
+
+.top__logo{
+    gap: 48px;
+    display: flex;
+    padding-left: 345px;
+    padding-top: 259.45px;
+}
