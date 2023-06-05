@@ -83,7 +83,10 @@ button{
 }
 
 .top__content{
-
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
 }
 
 
@@ -107,7 +110,7 @@ padding-bottom: 17px;
     display: flex;
     padding-left: 345px;
     padding-top: 259.45px;
-    padding-right: 375px;
+    padding-right: 375px ;
     padding-bottom: 96px;
     align-content: center;
     justify-content: space-between;
